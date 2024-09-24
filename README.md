@@ -2,4 +2,4 @@
 
 Introduction
 
-We want something new here! TADAAAA!
+We want something new here! TADAAAA! Crazy good!
