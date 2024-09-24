@@ -2,4 +2,6 @@
 
 Introduction
 
-This is a readme and trying to create a conflict in my branch
+This is a readme
+
+Creating a conflict could look like this
